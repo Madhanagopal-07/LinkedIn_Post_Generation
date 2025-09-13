@@ -1,0 +1,7 @@
+langchain==0.3.27
+langchain-core==0.3.75
+langchain-google-genai==2.1.10
+langchain-tavily==0.2.11
+fastapi==0.116.1
+dotenv==0.9.9
+python-dotenv==1.1.1
