@@ -16,6 +16,25 @@
     ```bash
        http://127.0.0.1:8000/docs
     ```
-    <br> it convert the url into FastAPI - Swagger UI as below
+ - It convert the url into FastAPI - Swagger UI as below
+   <br><br>
+   <div style="text-align: center;">
+    <img src="sample_images/img1.png" alt="Coder Agent Architecture"  width="90%"/>
+   </div>
+   <br><br>
+- In that Swagger URL all the REST API used in the file is displayed.
+- Click `POST/generate-post`. On that there is but `Try it out ` click and enter the topic you want to search ,then click evaluate 
+<br><br>
+   <div style="text-align: center;">
+    <img src="sample_images/img2.png" alt="Coder Agent Architecture"  width="90%"/>
+   </div>
+   <br><br>
+  - The respose will will displayed in the response cell with ` Response code 200 ` 
+  <br><br>
+   <div style="text-align: center;">
+    <img src="sample_images/img3.png" alt="Coder Agent Architecture"  width="90%"/>
+   </div>
+   <br><br>
+   
 
 
